@@ -23,4 +23,4 @@ The primary objective of **Nut Cracker** (Digital Twin V4) is to leverage Artifi
 
 Nut Cracker aims to integrate advanced technologies to optimize data workflows, deliver predictive insights, and provide robust visualization tools for performance monitoring and future planning. As a high-volume throughput system, it exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
 
-Python is core in this innovation.
+NodeJS, JavaScript and Python are core in this innovation.
