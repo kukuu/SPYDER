@@ -6,7 +6,9 @@ A Net Zero initiative platform designed to empower businesses and consumers with
 
 Leading a cross-functional team as Practice Engineering Lead and Architect, we have integrated dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable Next.js platform - helping users align sustainability goals with practical, measurable actions.
 
-SPYDER’s mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP (Object Oriented Programming), AI and Machine Learning, the platform has already enabled users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while accelerating their Net Zero progress. This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future.
+SPYDER’s mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP (Object Oriented Programming), AI and Machine Learning, the platform has already enabled users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while accelerating their Net Zero progress. 
+
+This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future.
 
 ## Related resources (PRIVATE)
 
