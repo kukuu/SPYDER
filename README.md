@@ -29,4 +29,4 @@ Nut Cracker aims to integrate advanced technologies to optimize data workflows, 
 
 NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation: 
 
-https://github.com/kukuu/digital-twin-P-V-4 .
+https://github.com/kukuu/digital-twin-P-V-4/blob/main/nut-cracker-mission.md
