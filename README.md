@@ -9,7 +9,7 @@ SPYDER’s mission is to bridge the gap between ambition and implementation in t
 ## Related resources (PRIVATE)
 
 ### Digital Twin (V2)
-- Digital Twin : https://github.com/kukuu/digital-twin-v2
+- Digital Twin : https://www.energytariffscheck.com/
 
 This Energy Meter Reader Digital twin is a dynamic, virtual representation of a physical Energy Meter Reader. It mirrors the real-world entity by continuously collecting data from sensors, IoT devices, and other sources. The data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.
 
