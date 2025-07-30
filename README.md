@@ -27,6 +27,9 @@ The primary objective of **Nut Cracker** (Digital Twin V4) is to leverage Artifi
 
 Nut Cracker aims to integrate advanced technologies to optimize data workflows, deliver predictive insights, and provide robust visualization tools for performance monitoring and future planning. As a high-volume throughput system, it exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
 
-NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation: 
+NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation.
 
-https://github.com/kukuu/digital-twin-P-V-4/blob/main/nut-cracker-mission.md
+## Resources
+
+- https://github.com/kukuu/digital-twin-P-V-4/blob/main/nut-cracker-mission.md
+- https://github.com/kukuu/digital-twin-P-V-4
