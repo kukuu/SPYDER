@@ -12,7 +12,7 @@ SPYDER’s mission is to bridge the gap between ambition and implementation in t
 
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future.
 
-## Related resources 
+## Repositories 
 
 
 - https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
