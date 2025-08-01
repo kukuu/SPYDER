@@ -10,7 +10,7 @@ Leading a cross-functional team as Practice Engineering Lead (Hands-on ) and Arc
 
 **SPYDER**’s mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP (Object Oriented Programming), AI and Machine Learning, the platform is  enabling users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while speeding their Net Zero progress. 
 
-This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future.
+This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers.
 
 ## Repositories 
 
