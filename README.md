@@ -62,6 +62,7 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Logstash
 - Grafana
 - Render
+- Vercel
 - AWS
 - GCP
 - AZURE
