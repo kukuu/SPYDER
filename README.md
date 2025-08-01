@@ -51,7 +51,6 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Microservices
 - NextJS
 - GraphQL
-- FLASK
 - Websocket
 - EXPRESS
 - Prometheus
@@ -64,7 +63,8 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Grafana
 - Render
 - AWS
-- Google Cloud
+- GCP
+- AZURE
 - ARIMA
 - LSTM
 - Datadog
@@ -73,9 +73,13 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - SENTRY
 - SONARCUBE
 - Jest
+- Jenkins
 - Cypress
 - REACT
 - Tailwind CSS
+- JIRA
+- Confluence
+- Miro
 
 
 ## Pipeline Architecture
