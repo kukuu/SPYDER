@@ -79,6 +79,8 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - JIRA
 - Confluence
 - Miro
+- CI/CD
+- Agile
 
 
 ## Pipeline Architecture
