@@ -178,7 +178,7 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 
 ### Generative AI:
 
-- Tools: OpenAI GPT, Cohere, or Anthropic for natural language processing (NLP) tasks.
+- Tools: OpenAI, LLM, GPT, Cohere, or Anthropic for natural language processing (NLP) tasks.
 
 - Frameworks for building conversational AI: Rasa or Dialogflow.
 
