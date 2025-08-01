@@ -173,7 +173,7 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 ```
 
 
-## AI Tools and Technologies:
+## AI Tools and Frameworks:
 
 
 ### Generative AI:
