@@ -35,7 +35,7 @@ Nut Cracker aims to integrate AI and ML  technologies to optimize data workflows
 
 NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation.
 
-## Technologies and Libraries
+## Technologies and Practices
   
 - Node 
 - Python
