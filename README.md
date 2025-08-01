@@ -69,7 +69,6 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - ARIMA
 - LSTM
 - Datadog
-- Flink
 - OWASP ZAP
 - SENTRY
 - SONARCUBE
