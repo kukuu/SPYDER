@@ -55,7 +55,7 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - EXPRESS
 - Prometheus
 - Elasticsearch
-- KABANA
+- KIBANA
 - Jenkins
 - Kubernetes
 - Docker
