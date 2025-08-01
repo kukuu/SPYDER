@@ -2,9 +2,9 @@
 
 https://www.energytariffscheck.com/ 
 
-A Net Zero initiative platform designed to empower businesses and consumers with actionable insights for reducing carbon emissions and adopting sustainable energy solutions. 
+A Net Zero initiative Price comparison platform designed to empower businesses and consumers with actionable insights for reducing carbon emissions and adopting sustainable energy solutions. 
 
-Hosted on EnergyTariffsCheck.com - https://www.energytariffscheck.com/ , **SPYDER** combines real-time energy data, AI-driven analytics, and user-friendly tools to compare tariffs, track consumption, and recommend cost-effective renewable energy options.
+Hosted on EnergyTariffsCheck.com - https://www.energytariffscheck.com/ , **SPYDER** is a digital representation of a physical energy meter reader utilising real-time energy data, AI-driven analytics, and user-friendly tools to compare tariffs, track consumption  simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options.
 
 Leading a cross-functional team as Practice Engineering Lead and Architect, we have integrated dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable Next.js platform - helping users align sustainability goals with practical, measurable actions.  
 
