@@ -201,8 +201,3 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 - ELK Stack (Elasticsearch, Logstash, Kibana) for data visualisation and monitoring.
 
 
-
-## Resources
-
-- https://github.com/kukuu/digital-twin-P-V-4/blob/main/nut-cracker-mission.md
-- https://github.com/kukuu/digital-twin-P-V-4
