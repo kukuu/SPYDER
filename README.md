@@ -83,7 +83,7 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Agile
 
 
-## Pipeline Architecture
+## Pipeline Architecture Nut Cracker (V4 - Python)
 
 ```
 
