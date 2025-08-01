@@ -74,7 +74,6 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - SENTRY
 - SONARCUBE
 - Jest
-- Jenkins
 - Cypress
 - REACT
 - Tailwind CSS
