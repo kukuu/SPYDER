@@ -37,8 +37,8 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 
 ## Technologies and Libraries
   
+- Node 
 - Python
-- Node
 - TypeScript
 - REACT
 - Supabase
