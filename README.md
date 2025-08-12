@@ -13,7 +13,7 @@ Leading a cross-functional team as Practice Engineering Lead (Hands-on ) and Sol
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers.
 
 
-### Digital Twin (V2 - Node)
+### Energy Meter Reader - Digital Twin ( V2 - Node)
 
 _Repository_ :  
 - https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
