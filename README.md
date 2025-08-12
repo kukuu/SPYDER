@@ -23,6 +23,7 @@ This  Digital Twin Energy Meter Reader is a dynamic, virtual representation of a
 ### The Nut Cracker  (V4 - Python)
 
 _Repository_ :  https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
+
 The primary objective of **Nut Cracker** (Digital Twin V4) is to leverage Artificial Intelligence (AI) and Machine Learning (ML), to streamline the transaction process involving data generation, processing,and transformation - ETL. This process focuses on real-time data sourced from distributed and disparate networks and systems. It's ML lifecycle covers data preparation and model training to deployment and monitoring.
 
 - Key functionalities include:
