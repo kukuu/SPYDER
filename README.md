@@ -12,17 +12,17 @@ Leading a cross-functional team as Practice Engineering Lead (Hands-on ) and Sol
 
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers.
 
-## Repositories 
-
-
-- https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
-- https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
 
 ### Digital Twin (V2 - Node)
+
+_Repository_ :  
+- https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
 This  Digital Twin Energy Meter Reader is a dynamic, virtual representation of a physical Energy Meter Reader. It mirrors the real-world entity by continuously collecting data from sensors, real-time data streams, data lakes, IoT devices, and other sources. The data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.
 
 ### The Nut Cracker  (V4 - Python)
+
+_Repository_ :  https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
 The primary objective of **Nut Cracker** (Digital Twin V4) is to leverage Artificial Intelligence (AI) and Machine Learning (ML), to streamline the transaction process involving data generation, processing,and transformation - ETL. This process focuses on real-time data sourced from distributed and disparate networks and systems. It's ML lifecycle covers data preparation and model training to deployment and monitoring.
 
 - Key functionalities include:
