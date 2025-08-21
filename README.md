@@ -1,6 +1,6 @@
 # SPYDER
 
-https://www.energytariffscheck.com/ 
+https://www.energytariffscheck.com/  
 
 A Net Zero initiative Price comparison platform designed to empower businesses and consumers with actionable insights for reducing carbon emissions and adopting sustainable energy solutions. 
 
