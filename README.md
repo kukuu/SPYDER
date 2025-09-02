@@ -41,7 +41,7 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 
 ## Key Features LLM Integration
 
-✅ Predictive Maintenance: LLM analyzes trends to flag anomalies (e.g., meter failures).
+✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
 
 ✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
 
