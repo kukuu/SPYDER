@@ -49,7 +49,9 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 
 ✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
-## Node.js e2e implementation (Private repository)
+### Node.js e2e implementation (Private repository)
+
+https://github.com/kukuu/digital-twin-v2/blob/main/nodejs-LLM-implementation.md
 
 ## Technologies and Practices
   
