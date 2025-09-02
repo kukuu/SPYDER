@@ -20,6 +20,9 @@ _Repository_ :
 
 This  Digital Twin Energy Meter Reader is a dynamic, virtual representation of a physical Energy Meter Reader. It mirrors the real-world entity by continuously collecting data from sensors, real-time data streams, data lakes, IoT devices, and other sources. The data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.
 
+
+
+
 ### The Nut Cracker  (V4 - Python)
 
 _Repository_ :  https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
@@ -35,6 +38,18 @@ The primary objective of **Nut Cracker** (Digital Twin V4) is to leverage Artifi
 Nut Cracker aims to integrate AI and ML  technologies to optimize data workflows, deliver predictive insights, and provide robust visualization tools for performance monitoring and future planning. As a high-volume throughput system, it exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
 
 NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation.
+
+## Key Features LLM Integration
+
+✅ Predictive Maintenance: LLM analyzes trends to flag anomalies (e.g., meter failures).
+
+✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
+
+✅ Automated Reports: LangChain generates summaries from Supabase data.
+
+✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
+
+## Node.js e2e implementation (Private repository)
 
 ## Technologies and Practices
   
