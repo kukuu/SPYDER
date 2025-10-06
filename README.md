@@ -198,7 +198,7 @@ https://github.com/kukuu/digital-twin-v2/blob/main/nodejs-LLM-implementation.md
 
 ### Generative AI:
 
-- Tools: OpenAI, LLM, GPT, Cohere, or Anthropic for natural language processing (NLP) tasks.
+- Tools: OpenAI, LLM, GPT, Cohere,  Anthropic for natural language processing (NLP) tasks.
 
 - Frameworks for building conversational AI: Rasa or Dialogflow.
 
