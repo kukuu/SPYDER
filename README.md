@@ -94,7 +94,6 @@ https://github.com/kukuu/digital-twin-v2/blob/main/nodejs-LLM-implementation.md
 - SONARCUBE
 - Jest
 - Cypress
-- REACT
 - Tailwind CSS
 - JIRA
 - Confluence
