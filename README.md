@@ -95,6 +95,7 @@ https://github.com/kukuu/digital-twin-v2/blob/main/nodejs-LLM-implementation.md
 - Jest
 - Cypress
 - Tailwind CSS
+- Material UI
 - JIRA
 - Confluence
 - Miro
