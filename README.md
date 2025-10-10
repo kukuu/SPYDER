@@ -222,7 +222,13 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 
 ### Related resources:
 
-- Ask JIM: 
+- Ask JIM: https://github.com/kukuu/ask-JIM
+- Price Comparison: 
+- Conveyor Belt Simulation:
+- FIFA World Cup 2022:
+- SNS:
+- Love Joint:
+- AZZOTTO Movies:
 
 
 
