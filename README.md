@@ -231,6 +231,7 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 - SPIDER Navigation System (SNS): https://github.com/kukuu/spider-navigation-system
 - Love Joint: https://www.lovejoint.store/ | https://github.com/kukuu/lovejoint (**PRIVATE**) | https://github.com/kukuu/lovejoint-docs
 - AZZOTTO Movies: https://www.azzottomovies.com/trailers | https://github.com/kukuu/azzotto-movies (**PRIVATE**)
+- Integration & Cloud Migration: https://github.com/kukuu/integration (**PRIVATE**)
 
 
 
