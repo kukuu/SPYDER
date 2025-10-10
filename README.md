@@ -43,6 +43,8 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 
 ## Key Features LLM Integration
 
+✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
+
 ✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
 
 ✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
