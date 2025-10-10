@@ -41,7 +41,7 @@ Nut Cracker aims to integrate AI and ML  technologies to optimize data workflows
 
 NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation.
 
-## Key Features LLM Integration
+### Key Features LLM Integration
 
 ✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
 
