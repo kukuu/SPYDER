@@ -227,10 +227,10 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 - Ask JIM: https://github.com/kukuu/ask-JIM
 - Price Comparison: https://www.energytariffscheck.com/ | https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 - Conveyor Belt Simulation:
-- FIFA World Cup 2022:
-- SNS:
-- Love Joint:
-- AZZOTTO Movies:
+- FIFA World Cup 2022: https://github.com/kukuu/FIFA-SaaS-NotificationPlatform-Qatar-WorldCup-2022
+- SPIDER Navigation System (SNS): https://github.com/kukuu/spider-navigation-system
+- Love Joint: https://www.lovejoint.store/ | https://github.com/kukuu/lovejoint (**PRIVATE**) | https://github.com/kukuu/lovejoint-docs
+- AZZOTTO Movies: https://www.azzottomovies.com/trailers | https://github.com/kukuu/azzotto-movies (**PRIVATE**)
 
 
 
