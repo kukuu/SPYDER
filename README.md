@@ -223,7 +223,7 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 ### Related resources:
 
 - Ask JIM: https://github.com/kukuu/ask-JIM
-- Price Comparison: 
+- Price Comparison: https://www.energytariffscheck.com/ | https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 - Conveyor Belt Simulation:
 - FIFA World Cup 2022:
 - SNS:
