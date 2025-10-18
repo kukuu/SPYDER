@@ -221,6 +221,8 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 
 ### Ask JIM
 
+"Ask Jim" is an AI-powered agile assistant that integrates with communication platforms like Slack and Microsoft Teams. It provides real-time guidance on agile methodologies and helps teams streamline their development processes.
+
 https://github.com/kukuu/ask-JIM
 
 ### Backend Integration Practices
@@ -255,7 +257,6 @@ Creating documentation, guidelines, and technical specifications for the integra
 
 ### Related resources:
 
-- Ask JIM: https://github.com/kukuu/ask-JIM
 - Price Comparison: https://www.energytariffscheck.com/ | https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 - Conveyor Belt Simulation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 - FIFA World Cup 2022: https://github.com/kukuu/FIFA-SaaS-NotificationPlatform-Qatar-WorldCup-2022
