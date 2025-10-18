@@ -219,6 +219,9 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 
 - ELK Stack (Elasticsearch, Logstash, Kibana) for data visualisation and monitoring.
 
+### Ask JIM
+
+https://github.com/kukuu/ask-JIM
 
 ### Backend Integration Practices
 
