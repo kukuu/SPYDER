@@ -3,7 +3,7 @@
 https://www.energytariffscheck.com/ 
 
 SPYDER is an AI-driven platform for the energy sector. It was designed to ingest, process, and make sense of complex energy tariff data to provide actionable insights - a similar challenge to making sense of contract and generation data for policy compliance and reporting.   
-
+ 
 A Net Zero initiative Price comparison platform. it is  designed to helps you find the best electricity tariff at the most competitive price. Compare different tariffs, check prices and choose the right option to save on energy bills. The Reader also serves as a forecasting system, a settlement tool and a Net Zero initiative - empowering businesses and consumers with actionable insights for reducing carbon emissions and adopting sustainable energy solutions.  
 
 Hosted on EnergyTariffsCheck.com - https://www.energytariffscheck.com/ , **SPYDER** is a digital representation of a physical energy meter reader utilising real-time energy data, AI-driven analytics, and user-friendly tools to compare tariffs, track consumption,  simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options.  
