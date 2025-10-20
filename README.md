@@ -105,6 +105,16 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 ## Scaling
 First priority: Implement comprehensive **tariff calculation tests** + **database connection pooling** - these will deliver immediate stability gains while you plan larger architectural changes.
 
+- 📊 **Key Performance Indicators**
+
+  - API Response: < 200ms for tariff comparisons
+
+  - Concurrent Users: Scale to 10,000+ simultaneous comparisons
+
+  - Test Coverage: 80%+ on core tariff logic
+
+  - Deployment: Zero-downtime deployments via blue/green
+  - 
 - Phase 1: Immediate Wins (2-4 weeks)
 
   - Extract tariff calculation engine to isolated microservice
@@ -131,15 +141,7 @@ First priority: Implement comprehensive **tariff calculation tests** + **databas
 
   - comparison-engine (matching logic)
 
-- 📊 Key Performance Indicators
 
-  - API Response: < 200ms for tariff comparisons
-
-  - Concurrent Users: Scale to 10,000+ simultaneous comparisons
-
-  - Test Coverage: 80%+ on core tariff logic
-
-  - Deployment: Zero-downtime deployments via blue/green
 
 ### Fullstack Flow 
 
