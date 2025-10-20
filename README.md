@@ -238,7 +238,9 @@ https://github.com/kukuu/blue-prints/blob/main/full-stack-flow.md
 +-------------------------------------------------+
 
 ```
+## Testing
 
+https://github.com/kukuu/digital-twin-v2/tree/main/tests
 
 ## AI Tools and Frameworks:
 
