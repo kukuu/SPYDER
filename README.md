@@ -141,7 +141,9 @@ First priority: Implement comprehensive **tariff calculation tests** + **databas
 
   - Deployment: Zero-downtime deployments via blue/green
 
+### Fullstack Flow 
 
+https://github.com/kukuu/blue-prints/blob/main/full-stack-flow.md
 
 ## Pipeline Architecture - Nut Cracker (V4 - Python)
 
