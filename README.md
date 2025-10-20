@@ -114,7 +114,7 @@ First priority: Implement comprehensive **tariff calculation tests** + **databas
   - Test Coverage: 80%+ on core tariff logic
 
   - Deployment: Zero-downtime deployments via blue/green
-  - 
+
 - Phase 1: Immediate Wins (2-4 weeks)
 
   - Extract tariff calculation engine to isolated microservice
