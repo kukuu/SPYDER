@@ -153,10 +153,9 @@ https://github.com/kukuu/SPYDER/blob/main/backend-tools-and-integration-practice
 
 ## Related resources:
 
-- Price Comparison: https://www.energytariffscheck.com/ | https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 - Conveyor Belt Simulation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
-- FIFA World Cup 2022: https://github.com/kukuu/FIFA-SaaS-NotificationPlatform-Qatar-WorldCup-2022
 - SPIDER Navigation System (SNS): https://github.com/kukuu/spider-navigation-system
+- FIFA World Cup 2022: https://github.com/kukuu/FIFA-SaaS-NotificationPlatform-Qatar-WorldCup-2022
 - Love Joint: https://www.lovejoint.store/ | https://github.com/kukuu/lovejoint (**PRIVATE**) | https://github.com/kukuu/lovejoint-docs
 - AZZOTTO Movies: https://www.azzottomovies.com/trailers | https://github.com/kukuu/azzotto-movies (**PRIVATE**)
 - Integration & Cloud Migration: https://github.com/kukuu/integration (**PRIVATE**)
