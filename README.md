@@ -41,15 +41,7 @@ https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
 https://github.com/kukuu/SPYDER/blob/main/the-nut-cracker.md
 
-**Technology & Practices**
-
-https://github.com/kukuu/SPYDER/blob/main/technology-and-practices.md
-
-**Scaling**
-
-https://github.com/kukuu/SPYDER/blob/main/scaling.md
-
-**Pipeline Architecture - Nut Cracker (V4 - Python)**
+_Pipeline Architecture - Nut Cracker (V4 - Python)_
 
 ```
 
@@ -137,6 +129,16 @@ https://github.com/kukuu/SPYDER/blob/main/scaling.md
 +-------------------------------------------------+
 
 ```
+
+**Technology & Practices**
+
+https://github.com/kukuu/SPYDER/blob/main/technology-and-practices.md
+
+**Scaling**
+
+https://github.com/kukuu/SPYDER/blob/main/scaling.md
+
+
 **Tariff Calculation Tests and DB Pooling**
 
 https://github.com/kukuu/digital-twin-v2/tree/main/tests
