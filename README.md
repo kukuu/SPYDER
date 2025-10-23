@@ -18,7 +18,7 @@ A dynamic, virtual representation of a physical Energy Meter Reader, SPYDER mirr
 
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers. 
 
-### Key LLM Integration Features
+**Key LLM Integration Features**:
 
 ✅ **Ask Jim**:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
 
