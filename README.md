@@ -38,7 +38,7 @@ https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
 
 
-## The Nut Cracker  (V4 - Python)
+**The Nut Cracker  (V4 - Python)**
 
 https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
 
@@ -56,14 +56,14 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 
 
 
-## Technology & Practices
+**Technology & Practices**
 
 https://github.com/kukuu/SPYDER/blob/main/technology-and-practices.md
 
-## Scaling
+**Scaling**
 https://github.com/kukuu/SPYDER/blob/main/scaling.md
 
-## Pipeline Architecture - Nut Cracker (V4 - Python)
+**Pipeline Architecture - Nut Cracker (V4 - Python)**
 
 ```
 
@@ -151,15 +151,15 @@ https://github.com/kukuu/SPYDER/blob/main/scaling.md
 +-------------------------------------------------+
 
 ```
-## Tariff Calculation Tests and DB Pooling
+**Tariff Calculation Tests and DB Pooling**
 
 https://github.com/kukuu/digital-twin-v2/tree/main/tests
 
-## AI Tools & Framework
+**AI Tools & Framework**
 
 https://github.com/kukuu/SPYDER/blob/main/AI-tools-and-framework.md
 
-## Backend Tools & Integration Practices
+**Backend Tools & Integration Practices**
 
 https://github.com/kukuu/SPYDER/blob/main/backend-tools-and-integration-practices.md
 
