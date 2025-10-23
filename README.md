@@ -37,11 +37,11 @@ This project reflects my passion for using technology as a dual force for enviro
 https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
 
-**The Nut Cracker**
+**The Nut Cracker**: (Python V4)
 
 https://github.com/kukuu/SPYDER/blob/main/the-nut-cracker.md
 
-_Pipeline Architecture - Nut Cracker (V4 - Python)_
+_Pipeline Architecture - _
 
 ```
 
