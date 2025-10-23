@@ -8,26 +8,31 @@ A Net Zero initiative Price comparison platform. it is  designed to helps you fi
 
 Hosted on EnergyTariffsCheck.com - https://www.energytariffscheck.com/ , **SPYDER** is a digital representation of a physical energy meter reader utilising real-time energy data, AI-driven analytics, and user-friendly tools to compare tariffs, track consumption,  simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options.  
   
-We have integrated dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable Next.js, TypeScript and Python platform - helping users align sustainability goals with practical, measurable actions.  
+We have integrated dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable Next.js, TypeScript and Python platform - helping users align sustainability goals with practical, measurable actions.
 
-**SPYDER**’s mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP, Design Thinking, AI and Machine Learning, the platform is  enabling users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while speeding their Net Zero progress.  
+**Mission**
+
+SPYDER’s mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP, Design Thinking, AI and Machine Learning, the platform is  enabling users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while speeding their Net Zero progress.
+
+A dynamic, virtual representation of a physical Energy Meter Reader, SPYDER mirrors the real-world entity by continuously collecting data from sensors, real-time data streams, data lakes, IoT devices, and other sources. The data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.
 
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers. 
 
 
-### Energy Meter Reader - Digital Twin ( V2 - Node)
 
-_Repository_ :  
+
+## Repository  
+
 - https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
-This  Digital Twin Energy Meter Reader is a dynamic, virtual representation of a physical Energy Meter Reader. It mirrors the real-world entity by continuously collecting data from sensors, real-time data streams, data lakes, IoT devices, and other sources. The data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.
 
 
 
 
-### The Nut Cracker  (V4 - Python)
 
-_Repository_ :  https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
+## The Nut Cracker  (V4 - Python)
+
+https://github.com/kukuu/digital-twin-PV4- (**PRIVATE** Python)
 
 The primary objective of **Nut Cracker** (Digital Twin V4) is to leverage Artificial Intelligence (AI) and Machine Learning (ML), to streamline the transaction process involving data generation, processing,and transformation - ETL. This process focuses on real-time data sourced from distributed and disparate networks and systems. It's ML lifecycle covers data preparation and model training to deployment and monitoring.
 
