@@ -18,6 +18,17 @@ A dynamic, virtual representation of a physical Energy Meter Reader, SPYDER mirr
 
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers. 
 
+### Key LLM Integration Features
+
+✅ **Ask Jim**:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
+
+✅ **Predictive Maintenance**: LLM analyses trends to flag anomalies (e.g., meter failures).
+
+✅ **Natural Language Queries (Semantic SEARCH)**: Users ask, "Show worst-performing meters this week" via chat.
+
+✅ **Automated Reports**: LangChain generates summaries from Supabase data. Including observability and Monitoring Graphs.
+
+✅ **Simulation Scenarios**: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
 
 
@@ -46,17 +57,6 @@ Nut Cracker aims to integrate AI and ML  technologies to optimize data workflows
 
 NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event Driven Concurrency, RDBMS / NoSQL technologies (e.g. MySQL, Redis, DynamoDB), and cloud technologies are core in this innovation.
 
-### Key Features LLM Integration
-
-✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
-
-✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
-
-✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
-
-✅ Automated Reports: LangChain generates summaries from Supabase data.
-
-✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
 
 ## Technology & Practices
