@@ -1,0 +1,43 @@
+
+# Technologies and Practices
+  
+- Node
+- EXPRESS
+- JavaScript/TypeScript
+- NextJS
+- Python
+- REACT
+- OpenAI, LLM/ML, RAG, Pinecone
+- Supabase
+- PostgreSQL
+- PRISMA ORM
+- MongoDB 
+- Apache KAFKA
+- Microservices
+- GraphQL/Apollo Server
+- Websocket
+- Prometheus
+- Elasticsearch
+- KIBANA
+- Kubernetes
+- Docker
+- Logstash
+- Grafana
+- Render
+- Vercel
+- AWS
+- GCP
+- ARIMA
+- LSTM
+- Datadog
+- OWASP ZAP
+- SENTRY
+- SONARCUBE
+- Jest
+- Cypress
+- Tailwind CSS
+- Material UI
+- JIRA
+- Confluence
+- Jenkins, CI/CD
+- Agile
