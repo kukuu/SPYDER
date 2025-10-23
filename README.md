@@ -54,28 +54,28 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 ✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
 
+
 ## Technologies and Practices
   
-- Node 
+- Node
+- EXPRESS
+- JavaScript/TypeScript
+- NextJS
 - Python
-- TypeScript
 - REACT
+- OpenAI, LLM/ML, RAG, Pinecone
 - Supabase
-- PostGreSQL
+- PostgreSQL
+- PRISMA ORM
 - MongoDB 
 - Apache KAFKA
-- RabbitMQ
-- Apache Flink
-- PRISMA ORM
 - Microservices
-- NextJS
-- GraphQL
+
+- GraphQL/Apollo Server
 - Websocket
-- EXPRESS
 - Prometheus
 - Elasticsearch
 - KIBANA
-- Jenkins
 - Kubernetes
 - Docker
 - Logstash
@@ -84,7 +84,6 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Vercel
 - AWS
 - GCP
-- AZURE
 - ARIMA
 - LSTM
 - Datadog
@@ -97,9 +96,11 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Material UI
 - JIRA
 - Confluence
-- Miro
-- CI/CD
+- Jenkins, CI/CD
 - Agile
+
+
+**Portfolio**: https://github.com/kukuu/portfolio/blob/main/README.md
 
 
 ## Scaling
