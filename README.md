@@ -23,7 +23,7 @@ This project reflects my passion for using technology as a dual force for enviro
 
 ## Repository  
 
-- https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
+https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
 
 
