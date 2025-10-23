@@ -141,7 +141,7 @@ https://github.com/kukuu/SPYDER/blob/main/scaling.md
 
 **Tariff Calculation Tests and DB Pooling**
 
-https://github.com/kukuu/digital-twin-v2/tree/main/tests
+https://github.com/kukuu/digital-twin-v2/tree/main/tests (**PRIVATE**)
 
 **AI Tools & Framework**
 
