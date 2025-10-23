@@ -20,15 +20,15 @@ This project reflects my passion for using technology as a dual force for enviro
 
 **Key LLM Integration Features**:
 
-✅ **Ask Jim**:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
+✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
 
-✅ **Predictive Maintenance**: LLM analyses trends to flag anomalies (e.g., meter failures).
+✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
 
-✅ **Natural Language Queries (Semantic SEARCH)**: Users ask, "Show worst-performing meters this week" via chat.
+✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
 
-✅ **Automated Reports**: LangChain generates summaries from Supabase data. Including observability and Monitoring Graphs.
+✅ Automated Reports: LangChain generates summaries from Supabase data. Including observability and Monitoring Graphs.
 
-✅ **Simulation Scenarios**: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
+✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
 
 
@@ -46,6 +46,7 @@ https://github.com/kukuu/SPYDER/blob/main/the-nut-cracker.md
 https://github.com/kukuu/SPYDER/blob/main/technology-and-practices.md
 
 **Scaling**
+
 https://github.com/kukuu/SPYDER/blob/main/scaling.md
 
 **Pipeline Architecture - Nut Cracker (V4 - Python)**
