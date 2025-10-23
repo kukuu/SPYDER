@@ -100,8 +100,6 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 - Agile
 
 
-**Portfolio**: https://github.com/kukuu/portfolio/blob/main/README.md
-
 
 ## Scaling
 First priority: Implement comprehensive **tariff calculation tests** + **database connection pooling** - these will deliver immediate stability gains while you plan larger architectural changes.
@@ -141,12 +139,6 @@ First priority: Implement comprehensive **tariff calculation tests** + **databas
   - user-service (profiles/usage)
 
   - comparison-engine (matching logic)
-
-
-
-### Fullstack Flow 
-
-https://github.com/kukuu/blue-prints/blob/main/full-stack-flow.md
 
 
 
