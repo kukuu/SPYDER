@@ -237,6 +237,11 @@ https://github.com/kukuu/digital-twin-v2/tree/main/tests
 
 ## AI Tools and Frameworks:
 
+### Ask JIM
+
+"Ask Jim" is an AI-powered agile assistant that integrates with communication platforms like Slack and Microsoft Teams. It provides real-time guidance on agile methodologies and helps teams streamline their development processes.
+
+https://github.com/kukuu/ask-JIM
 
 ### Generative AI:
 
@@ -262,13 +267,9 @@ ii. Building Agentic Applications that automate workflows and decision-making pr
 
 - ELK Stack (Elasticsearch, Logstash, Kibana) for data visualisation and monitoring.
 
-### Ask JIM
 
-"Ask Jim" is an AI-powered agile assistant that integrates with communication platforms like Slack and Microsoft Teams. It provides real-time guidance on agile methodologies and helps teams streamline their development processes.
 
-https://github.com/kukuu/ask-JIM
-
-### Backend Integration Practices
+## Backend Integration Practices
 
    
 - API Development: 
