@@ -162,6 +162,5 @@ https://github.com/kukuu/SPYDER/blob/main/backend-tools-and-integration-practice
 - Love Joint: https://www.lovejoint.store/ | https://github.com/kukuu/lovejoint (**PRIVATE**) | https://github.com/kukuu/lovejoint-docs
 - AZZOTTO Movies: https://www.azzottomovies.com/trailers | https://github.com/kukuu/azzotto-movies (**PRIVATE**)
 - Integration & Cloud Migration: https://github.com/kukuu/integration (**PRIVATE**)
-
-
+- Evaluation report: https://github.com/kukuu/digital-twin-v2/blob/main/market-evaluation.md (**PRIVATE**)
 
