@@ -41,7 +41,7 @@ https://github.com/kukuu/digital-twin-v2 (**PRIVATE** - NodeJS)
 
 https://github.com/kukuu/SPYDER/blob/main/the-nut-cracker.md
 
-_Pipeline Architecture - _
+_Pipeline Architecture_
 
 ```
 
