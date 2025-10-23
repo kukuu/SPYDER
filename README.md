@@ -54,53 +54,9 @@ NodeJS, JavaScript,  Python, Machine Learning, Artificial Inrtelligence, Event D
 ✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
 
+## Technology & Practices
 
-## Technologies and Practices
-  
-- Node
-- EXPRESS
-- JavaScript/TypeScript
-- NextJS
-- Python
-- REACT
-- OpenAI, LLM/ML, RAG, Pinecone
-- Supabase
-- PostgreSQL
-- PRISMA ORM
-- MongoDB 
-- Apache KAFKA
-- Microservices
-
-- GraphQL/Apollo Server
-- Websocket
-- Prometheus
-- Elasticsearch
-- KIBANA
-- Kubernetes
-- Docker
-- Logstash
-- Grafana
-- Render
-- Vercel
-- AWS
-- GCP
-- ARIMA
-- LSTM
-- Datadog
-- OWASP ZAP
-- SENTRY
-- SONARCUBE
-- Jest
-- Cypress
-- Tailwind CSS
-- Material UI
-- JIRA
-- Confluence
-- Jenkins, CI/CD
-- Agile
-
-
-
+https://github.com/kukuu/SPYDER/blob/main/technology-and-practices.md
 ## Scaling
 First priority: Implement comprehensive **tariff calculation tests** + **database connection pooling** - these will deliver immediate stability gains while you plan larger architectural changes.
 
