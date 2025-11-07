@@ -20,7 +20,16 @@ This project reflects my passion for using technology as a dual force for enviro
 
 **Key LLM Integration Features**:
 
-✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM.
+✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM. Performs the folllowing tasks:
+  - ✅ Robust data processing with null checks everywhere
+✅ Advanced fallback systems that work without OpenAI
+✅ Full vector semantic search implementation
+✅ Enhanced keyword search with relevance scoring
+✅ Complete context building from multiple data sources
+✅ Professional response generation with HTML formatting
+✅ Background operations for better performance
+✅ Health monitoring and statistics endpoints
+  - ✅ Safe database operations with proper error handling
 
 ✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
 
