@@ -20,7 +20,7 @@ This project reflects my passion for using technology as a dual force for enviro
 
 **Key AI,LLM-NLP, RAG Pipeline Integration Features**:
 
-✅ **Ask Jim:** Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM. Performs the folllowing tasks:
+✅ **Ask Jim:** Custom Domain Engine:AI,  ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM. Performs the folllowing tasks:
   - ✅ Robust data processing with null checks everywhere
   - ✅ Advanced fallback systems that work without OpenAI
   - ✅ Full vector semantic search implementation
