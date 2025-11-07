@@ -18,9 +18,9 @@ A dynamic, virtual representation of a physical Energy Meter Reader, SPYDER mirr
 
 This project reflects my passion for using technology as a dual force for environmental and economic impact - turning complex energy decisions into clear, actionable steps for a sustainable future. It follows my work on the OFGEM MHHR initiative. The MHHR is a  transformative energy sector initiative modernising the UK’s electricity settlement system to half-hourly intervals, enabling accurate billing, grid flexibility, and smarter energy use. It paves the way for renewable integration and cost savings for consumers. 
 
-**Key LLM Integration Features**:
+**Key AI,LLM-NLP, RAG Pipeline Integration Features**:
 
-✅ Ask Jim:  Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM. Performs the folllowing tasks:
+✅ **Ask Jim: ** Custom Domain AI Engine, ML, LLM  RAG Pipeline - https://github.com/kukuu/ask-JIM. Performs the folllowing tasks:
   - ✅ Robust data processing with null checks everywhere
   - ✅ Advanced fallback systems that work without OpenAI
   - ✅ Full vector semantic search implementation
@@ -30,15 +30,10 @@ This project reflects my passion for using technology as a dual force for enviro
   - ✅ Background operations for better performance
   - ✅ Health monitoring and statistics endpoints
   - ✅ Safe database operations with proper error handling
-✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
-
-✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
-
-✅ Automated Reports: LangChain generates summaries from Supabase data. Including observability and Monitoring Graphs.
-
-✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
-
-
+  - ✅ Predictive Maintenance: LLM analyses trends to flag anomalies (e.g., meter failures).
+  - ✅ Natural Language Queries (Semantic SEARCH): Users ask, "Show worst-performing meters this week" via chat.
+  - ✅ Automated Reports: LangChain generates summaries from Supabase data. Including observability and Monitoring Graphs.
+  - ✅ Simulation Scenarios: "What if meter load increases by 20%?" → LLM runs digital twin simulations.
 
 **Repository**  
 
