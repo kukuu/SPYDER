@@ -58,7 +58,7 @@ _Pipeline Architecture_
 |   Input Sources                                      |
 | - Synthetic Data                                     |
 | - Excel Files with Meter Consumption Data            |
-| - Real-time Streaming of Meter Readings              |
+| - Real-time Streaming of Meter Readings / Websocket  |
 | - API Endpoints for External Data Sources            |
 +------------------------------------------------------+
 |   Tools                                              |
