@@ -86,9 +86,9 @@ _Pipeline Architecture_
             STORAGE LAYER
                   |
 +-------------------------------------------------+
-|   Database                                      |
-| - PostgreSQL or MySQL for structured data       |
-| - Separate tables for sources A, B, and C       |
+|   Database / PG Vector for embeddings           |
+| - PostgreSQL / MySQL for structured data        |
+| - Separate tables for sources.                  |
 | - Indexed columns for timestamp-based queries   |
 +-------------------------------------------------+
 |   Data Lake                                     |
