@@ -59,7 +59,7 @@ _Pipeline Architecture_
 | - Synthetic Data                                     |
 | - Excel Files with Meter Consumption Data            |
 | - Real-time Streaming of Meter Readings              |
-| - API Endpoints for External Data Sources(in-scope)  |
+| - API Endpoints for External Data Sources            |
 +------------------------------------------------------+
 |   Tools                                              |
 | - Python (Pandas, OpenPyXL for spreadsheets)         |
