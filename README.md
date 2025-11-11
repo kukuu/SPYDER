@@ -3,6 +3,9 @@
 https://www.energytariffscheck.com/ 
 
 SPYDER is an AI-driven platform for the energy sector. It was designed to ingest, process, and make sense  of complex energy tariff data to provide actionable insights - a similar challenge to making sense of contract and generation data for policy compliance and reporting.   
+
+
+SPYDER proven track record is honed in applying AI to core business problems. It's platform uses LLM and RAG to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
  
 A Net Zero initiative Price comparison platform. it is  designed to helps you find the best electricity tariff at the most competitive price. Compare different tariffs, check prices and choose the right option to save on energy bills. The Reader also serves as a forecasting system, a settlement tool and a Net Zero initiative - empowering businesses and consumers with actionable insights for reducing carbon emissions and adopting sustainable energy solutions.   
 
@@ -12,7 +15,7 @@ We have integrated dynamic carbon footprint tracking, personalised energy-saving
   
 **Mission**
 
-SPYDER’s mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP, Design Thinking, AI and Machine Learning, the platform is  enabling users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while speeding their Net Zero progress.
+SPYDER's mission is to bridge the gap between ambition and implementation in the transition to carbon neutrality. By partnering with green energy providers and leveraging smart algorithms and best practices in OOP, Design Thinking, AI and Machine Learning, the platform is  enabling users to cut costs through personalisation, forecasting, predictive analysis and accelerated maintenance workflows while speeding their Net Zero progress.
 
 A dynamic, virtual representation of a physical Energy Meter Reader, SPYDER mirrors the real-world entity by continuously collecting data from sensors, real-time data streams, data lakes, IoT devices, and other sources. The data is then processed and analyzed to create a digital replica that accurately reflects the behavior, status, and condition of its physical counterpart. By leveraging advanced technologies such as artificial intelligence, machine learning, and predictive analytics, digital twins can simulate various scenarios and predict future outcomes. This enables stakeholders to monitor performance, diagnose issues, optimize processes, and make data-driven decisions in real-time.
 
