@@ -3,7 +3,7 @@
 https://www.energytariffscheck.com/ 
 
 SPYDER is an AI-driven platform for the energy sector. It was designed to ingest, process, and make sense  of complex energy tariff data to provide actionable insights - a similar challenge to making sense of contract and generation data for policy compliance and reporting.   
-
+ 
 
 It's proven track record is honed in applying AI to core business problems. SPYDER uses LLM and RAG to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
  
