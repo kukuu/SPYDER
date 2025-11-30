@@ -1,4 +1,4 @@
-# SPYDER
+# SPYDER 👁️⚡ 
 
 ## Your Personalised Energy Tariff Service.
 
