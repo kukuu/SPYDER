@@ -23,3 +23,8 @@ Documentation:
 - **SPYDER** - https://github.com/kukuu/SPYDER/blob/main/README.md
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 
+- Alexander Adu-Sarkodie
+- Software Engineering & Technologist
+- Portfolio: https://github.com/kukuu/portfolio
+- GitHub: https://github.com/kukuu?tab=repositories
+- Email: aadusarkodie1@gmail.com
