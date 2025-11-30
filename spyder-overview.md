@@ -24,7 +24,7 @@ _Documentation:_
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
 _Business & Market Evaluation:_
-- https://github.com/kukuu/SPYDER-market-evaluation
+- https://github.com/kukuu/SPYDER-market-evaluation (**PRIVATE**)
 
 _Owner and Author:_ Alexander Adu-Sarkodie, Software Engineering & Information Technologist
 
