@@ -23,5 +23,8 @@ Documentation:
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
+Business & Market Evaluation:
+- https://github.com/kukuu/SPYDER-market-evaluation
+
 _**Owner and Author**: Alexander Adu-Sarkodie, Software Engineering & Information Technologist_
 
