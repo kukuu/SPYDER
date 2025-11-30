@@ -1,4 +1,4 @@
-# Introducing SPYDER
+# SPYDER
 
 ## Your Personalised Energy Tariff Service.
 aadusarkodie1@gmail.com
