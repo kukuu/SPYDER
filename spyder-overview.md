@@ -24,8 +24,3 @@ Documentation:
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
-- Alexander Adu-Sarkodie
-- Software Engineering & Technologist
-- Portfolio: https://github.com/kukuu/portfolio
-- GitHub: https://github.com/kukuu?tab=repositories
-- Email: aadusarkodie1@gmail.com
