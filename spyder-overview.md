@@ -23,5 +23,5 @@ Documentation:
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
-_Owner and Author: Alexander Adu-Sarkodie_
-_Owner and Author: Alexander Adu-Sarkodie_
+_Owner and Author: Alexander Adu-Sarkodie, Software Engineering & Information Technologist_
+
