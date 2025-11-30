@@ -1,4 +1,6 @@
-# Introducing SPYDER: Your Personalised Energy Tariff Service.
+# Introducing SPYDER
+
+## Your Personalised Energy Tariff Service.
 aadusarkodie1@gmail.com
 
 **SPYDER**, hosted on https://www.energytariffscheck.com/,  is an AI-driven platform for the energy sector. Owned and developed by Alexander Adu-Sarkodie, it was designed to ingest, process, and make sense of complex energy tariff data to provide actionable insights - a similar challenge to making sense of contract and generation data for policy compliance and reporting.
