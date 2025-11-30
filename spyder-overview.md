@@ -26,6 +26,5 @@ _Documentation:_
 _Business & Market Evaluation:_
 - https://github.com/kukuu/SPYDER-market-evaluation
 
-_Owner and Author:_
-- Alexander Adu-Sarkodie, Software Engineering & Information Technologist
+_Owner and Author:_ Alexander Adu-Sarkodie, Software Engineering & Information Technologist
 
