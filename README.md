@@ -160,7 +160,8 @@ https://github.com/kukuu/SPYDER/blob/main/backend-tools-and-integration-practice
 
 ## Related resources:
 
-- "Ask JIM" - https://github.com/kukuu/ask-JIM/blob/main/README.md
+- Digital Twin Expertise - https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
+-  "Ask JIM" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - Conveyor Belt Simulation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 - SPIDER Navigation System (SNS): https://github.com/kukuu/spider-navigation-system
 - FIFA World Cup 2022: https://github.com/kukuu/FIFA-SaaS-NotificationPlatform-Qatar-WorldCup-2022
