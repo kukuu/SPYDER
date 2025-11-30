@@ -24,3 +24,4 @@ Documentation:
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
 _Owner and Author: Alexander Adu-Sarkodie_
+_Owner and Author: Alexander Adu-Sarkodie_
