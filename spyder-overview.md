@@ -22,6 +22,7 @@ This project reflects my passion for using technology as a dual force for enviro
 Documentation:
 - **SPYDER** - https://github.com/kukuu/SPYDER/blob/main/README.md
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
+- Digital Twin - https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
 - Alexander Adu-Sarkodie
 - Software Engineering & Technologist
