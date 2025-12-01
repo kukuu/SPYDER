@@ -23,8 +23,9 @@ _Documentation:_
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 
-_Business & Market Evaluation:_
-- https://github.com/kukuu/SPYDER-market-evaluation (**PRIVATE**)
+_Business & Market Evaluation:_; https://github.com/kukuu/SPYDER-market-evaluation (**PRIVATE**)
+
+_Marketing Campaign Strategy_: https://github.com/kukuu/SPYDER-market-evaluation/blob/main/marketing-campaign-strategy.md (**PRIVATE**)
 
 Alexander Adu-Sarkodie, Software Engineering & Information Technologist
 
