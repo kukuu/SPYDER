@@ -19,7 +19,7 @@ This project reflects my passion for using technology as a dual force for enviro
 **SPYDER** works alongside ''Ask JIM'' - A unique, custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted Companion with all the information you need about energy savings, consumption and social impact.  ''Ask JIM’'  combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint: 
 
 _Documentation:_
-- **SPYDER** - https://github.com/kukuu/SPYDER/blob/main/README.md
+- **The Platform** - https://github.com/kukuu/SPYDER/blob/main/README.md
 - "**Ask JIM**" - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - **Expertise**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 - **Market Evaluation** -  https://github.com/kukuu/SPYDER-market-evaluation (**PRIVATE**)
