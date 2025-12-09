@@ -26,7 +26,7 @@ This project reflects my passion for using technology as a dual force for enviro
 
 _Documentation:_
 - **The Platform** - https://github.com/kukuu/SPYDER/blob/main/README.md
-- **Real AI integration with AI Energy Analyst "Ask JIM"** - https://github.com/kukuu/ask-JIM/blob/main/README.md
+- **Real AI integration with Companion Analyst "Ask JIM"** - https://github.com/kukuu/ask-JIM/blob/main/README.md
 - **Technical Excellence (Digital Twin)**- https://github.com/kukuu/SPYDER/blob/main/digital-twin-expertise.md
 - **Market Evaluation** -  https://github.com/kukuu/SPYDER-market-evaluation (**PRIVATE**)
 - **Campaign Strategy** -  https://github.com/kukuu/SPYDER-market-evaluation/blob/main/marketing-campaign-strategy.md (**PRIVATE**)
