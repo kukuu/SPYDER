@@ -32,5 +32,5 @@ _Documentation:_
 - **Campaign Strategy** -  https://github.com/kukuu/SPYDER-market-evaluation/blob/main/marketing-campaign-strategy.md (**PRIVATE**)
 - **Founders Deck & Strategic Investment Memo** - https://github.com/kukuu/SPYDER-market-evaluation/blob/main/SPYDER-Founders-Deck-and-Strategic-Investment-Memo.pdf
 
-Product Owner, Developer and Architect: Alexander Adu-Sarkodie - MSc Computer Science, MSc Mechanical Engineering.
+_Product Owner, Developer and Architect_: Alexander Adu-Sarkodie - MSc Computer Science, MSc Mechanical Engineering.
 
