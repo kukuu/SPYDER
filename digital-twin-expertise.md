@@ -1,4 +1,4 @@
-# Digital Twin Expertise
+# Digital Twin
 
 My career is defined by pioneering high-impact Digital Twin solutions within the IIoT sector, an expertise that has contributed to my recognition as one of the UK's Top 50 Influential Technologists. This accolade reflects my proven ability to architect systems that transform operational workflows, enhance efficiency, and enable predictive maintenance. A prime example is my work on the **StrikeNet** project for the UK Ministry of Defence, where I architected a defence-grade digital twin that created a virtual replica of physical combat systems. By integrating real-time IoT sensor data and AI-driven analytics to simulate scenarios and predict outcomes, this solution reduced operational risks by 30%, demonstrating the profound operational advantage this technology delivers in critical environments.
 
