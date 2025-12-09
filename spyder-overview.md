@@ -6,7 +6,7 @@ The energy sector is transforming at a remarkable pace, moving toward an innovat
 
 As consumers grow more informed about pricing, service options, and energy sources, they expect contemporary systems that simplify this growing intricacy. At the same time, these solutions must perfectly handle the fundamentals, a transparent contractual process and an accurate, timely bill.
 
-This dual challenge of navigating rapid industry transformation while delivering clarity and reliability to customers is the core problem that SPYDER  a Price Comparison SaaS platform   is designed to address.
+This dual challenge of navigating rapid industry transformation while delivering clarity and reliability to customers is the core problem that **SPYDER**  a Price Comparison SaaS platform   is designed to address.
 
 **SPYDER**, is an AI-driven platform for the energy sector.  It was designed to ingest, process, and make sense of complex energy tariff data to provide actionable insights - a similar challenge to making sense of contract and generation data for policy compliance and reporting.
 
