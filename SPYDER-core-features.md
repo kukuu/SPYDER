@@ -6,7 +6,7 @@
   - AI/ML historical  and inference data tracking.
   - Consumption rate indicators.
   - Affiliate link tracking
-  - Calculate functionality for manual readRESULT
+  - Calculate functionality for manual read RESULT
   - Results table display
 
 
