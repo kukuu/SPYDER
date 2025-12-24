@@ -33,5 +33,9 @@ _Related Resources:_
 - **Campaign Strategy** -  https://github.com/kukuu/SPYDER-market-evaluation/blob/main/marketing-campaign-strategy.md (**PRIVATE**)
 - **Founders Deck & Strategic Investment Memo** - https://github.com/kukuu/SPYDER-market-evaluation/blob/main/SPYDER-Founders-Deck-and-Strategic-Investment-Memo.pdf (**PRIVATE**)
 
+## Core Features
+
+https://github.com/kukuu/SPYDER/blob/main/SPYDER-core-features.md
+
 _Product Owner, Developer & Architect_: Alexander Adu-Sarkodie - MSc Computer Science, MSc Mechanical Engineering.
 
