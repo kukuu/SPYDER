@@ -36,7 +36,7 @@
 
 - **NetZero Initiatives:**
   - Flight  Booking Price Alert
-  - Real Estate Asset  Managemen.
+  - Real Estate Asset  Management.
 
  - **Configuration-Driven Architecture:**
   - Socket.io  asynchronous state changes stored in  environment variables (.env)
