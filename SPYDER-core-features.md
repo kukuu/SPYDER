@@ -39,10 +39,10 @@
   - Real Estate Asset  Management.
 
  - **Configuration-Driven Architecture:**
-  - Socket.io  asynchronous state changes stored in  environment variables (.env)
-  - Database tables (suppliers, meters, etc.)
-  - API endpoints for real-time updates
-  - User preferences stored in state
+   - Socket.io  asynchronous state changes stored in  environment variables (.env)
+   - Database tables (suppliers, meters, etc.)
+   - API endpoints for real-time updates
+   - User preferences stored in state
 
 - **Google Analytics Tracking**
 
