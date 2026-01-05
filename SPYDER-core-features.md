@@ -61,7 +61,7 @@ _Automatic Tracking:_
 
 **CSV Attachment to Meter Grid Reading submission**
 
-Send Meter Readings is now configured in the Google Cloud Email Script to attach a dynamic generated CSV file from sending SPYDER Grid Meter readings. The file  is automatically sent to the AI engine at the backend  for processing and refining the Models to enhance data driven decisions and forecasting by the RAG pipelines and workflows.
+Send Meter Readings is now configured in the Google Cloud Email Script to attach a dynamic generated CSV file to SPYDER Grid Meter readings. The file  is automatically sent to the AI engine at the backend  for processing and refining the Models to enhance data driven decisions and forecasting by the RAG pipelines and workflows.
 
 
 
