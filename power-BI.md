@@ -1,0 +1,3 @@
+# Power BI
+
+- https://app.powerbi.com/view?r=eyJrIjoiOGU3N2FhYzgtMDdlZS00OGQxLWFmZWQtM2U3ZTkyYTRiN2Y5IiwidCI6IjBkNTJjNzdmLTA3N2QtNDBkYy1hNWE5LTUzN2Q0ODVkMzAyNyIsImMiOjh9
