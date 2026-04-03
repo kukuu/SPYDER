@@ -1,6 +1,6 @@
 # SPYDER 👁️⚡ 
  
-https://www.energytariffscheck.com/   
+https://www.energytariffscheck.com/    
 
 The energy sector is transforming at a remarkable pace, moving toward an innovative era dominated by smart grid technology and renewable energy sources. Significant technological overhauls are essential to meet the growing demands of regulation, which aims to accomplish these goals and safeguard consumers.    
 
